@@ -1,0 +1,12 @@
+The following files have been provided:
+
+1. Two realizations of total IQU maps
+3. One realization of IQU maps in three separate ISM phases.
+4. Binary mask describing the high galactic latitude at the Northern Galactic cap over which the model can describe the data.
+
+Information:
+
+1. All maps are 60 arcmin smoothed.
+
+2. Maps are at Nside = 128
+
